@@ -1,16 +1,18 @@
-## Hi there 👋
+## Welcome to my profile! 😊
 
-<!--
-**beeamc/beeamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Beatriz!
 
-Here are some ideas to get you started:
+Facts about me:
+- She/her
+- 15y
+- I study programming through Alura!
+- I'm developing in JavaScript
+- I use this space to organize and share my developed projects!
+- My favourite colors are red, orange, yellow, green, blue, and purple!
+- The Beatles forever!!
+- Rock in veins!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can talk to me :mailbox
+
+biamoreiracarvalho1234@gmail.com
+@beea_mc on social media
