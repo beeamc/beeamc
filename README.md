@@ -12,7 +12,8 @@ Facts about me:
 - The Beatles forever!!
 - Rock in veins!
 
-## You can talk to me :mailbox
+## You can talk to me!
 
-biamoreiracarvalho1234@gmail.com
+Mailbox: biamoreiracarvalho1234@gmail.com
+
 @beea_mc on social media
