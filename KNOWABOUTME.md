@@ -9,13 +9,12 @@ Facts about me:
 - I know a bit of JavaScript and Python!
 - I use this space to organize and share my developed projects!
 - My favourite colors are red, orange, yellow, green, blue, and purple!
+- ARMY!!!
 - The Beatles forever!!
-- Rock in veins!
 
 ## You can talk to me!
 
-Mailbox: biamoreiracarvalho1234@gmail.com
-
+Mailbox: beatrizmoreiracarvalho01@gmai.com
 @_st4rr.mp3 on social media
 
 ## Saiki-san!
