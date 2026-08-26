@@ -55,8 +55,17 @@
 <br>
       
 <div align="center">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=beeamc&layout=compact&theme=radical&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beeamc&theme=radical"/>
+  
+  <img align="center" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beeamc&theme=holi&animation=rise&title_color=ba56a2&text_color=ba56a2&bg_color=f3d6f2&border_color=ba56a2&icon_color=ff80ff&chart_color=ff22ff"/>
+  
+ <img align="center" alt="LangRepo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beeamc&theme=holi&animation=rise&title_color=ba56a2&text_color=ba56a2&bg_color=f3d6f2&border_color=ba56a2&icon_color=ff80ff&chart_color=ff22ff">
+ 
+  <img align="center" alt="LangCom" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beeamc&theme=holi&animation=rise&title_color=ba56a2&text_color=ba56a2&bg_color=f3d6f2&border_color=ba56a2&icon_color=ff80ff&chart_color=ff22ff">
+ 
+   <img align="center" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beeamc&theme=holi&animation=rise&title_color=ba56a2&text_color=ba56a2&bg_color=f3d6f2&border_color=ba56a2&icon_color=ff80ff&chart_color=ff22ff">
+  
+   <img align="center" alt="commits" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beeamc&theme=holi&animation=rise&utcOffset=-3&title_color=ba56a2&text_color=ba56a2&bg_color=f3d6f2&border_color=ba56a2&icon_color=ff80ff&chart_color=ff22ff">
+  
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -67,6 +76,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_st4rr.mp3/?next=%2F)
   [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/st4rr_mp3)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/577176222220550147)
+  ![W3 Schools](https://img.shields.io/badge/W3%20Schools-%2304AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white) 
   
 </div>
 
