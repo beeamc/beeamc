@@ -64,9 +64,6 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) <br>
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_st4rr.mp3/?next=%2F)
   [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/st4rr_mp3)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/577176222220550147)
@@ -77,7 +74,8 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=beeamc&style=flat-square&color=8f2c5b" /></p> 
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10;">
+<img src="https://media.tenor.com/q7fTDVCgqLsAAAAi/noelle-holiday-noelle.gif">
 <img src="https://media.tenor.com/Uc1_BQNb7O8AAAAj/sylveon-pixell.gif">
 </div>
 
